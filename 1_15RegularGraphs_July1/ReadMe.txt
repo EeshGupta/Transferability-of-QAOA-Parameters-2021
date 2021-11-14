@@ -1,0 +1,1 @@
+On July1, I created this folder to generate 15 regular graphs of fixed sixe ~16 nodes -- 5 graphs for each d-regular whenever possible (not possible for 1,2,14,15). AFter runnning these experiments for 18 hours, the 2notebooks were still runnning. They were stopped in middle of execution and I decided to parallelize on July 2.
